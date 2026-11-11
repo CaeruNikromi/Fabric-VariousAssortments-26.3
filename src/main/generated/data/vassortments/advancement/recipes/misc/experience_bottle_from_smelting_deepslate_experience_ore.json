@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_experience_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "vassortments:deepslate_experience_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "vassortments:experience_bottle_from_smelting_deepslate_experience_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_deepslate_experience_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vassortments:experience_bottle_from_smelting_deepslate_experience_ore"
+    ]
+  }
+}

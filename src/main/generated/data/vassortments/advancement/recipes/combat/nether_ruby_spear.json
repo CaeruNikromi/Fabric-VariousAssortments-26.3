@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_nether_ruby": {
+      "conditions": {
+        "items": [
+          {
+            "items": "vassortments:nether_ruby"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "vassortments:nether_ruby_spear"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_nether_ruby"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vassortments:nether_ruby_spear"
+    ]
+  }
+}

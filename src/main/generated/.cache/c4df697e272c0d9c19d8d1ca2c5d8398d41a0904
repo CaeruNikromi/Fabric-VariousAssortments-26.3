@@ -1,0 +1,11 @@
+// 26.3	-999999999-01-01T00:00:00	Various Assortments/Tags for minecraft:item
+5edfa07092f3e1f30bfb4a4eeb9c5b08251a0f3d data/minecraft/tags/item/axes.json
+f0024bc7325615ff7f58c833cbe3544316e6f7f2 data/minecraft/tags/item/chest_armor.json
+0dc02841f63ba147e63475eabf511fecc5e94cad data/minecraft/tags/item/foot_armor.json
+57c8cfd683b29a6a1c8fe558a0c5eade22f22bc0 data/minecraft/tags/item/head_armor.json
+a0f22934cd4a135e10b6be0015051ec821877b8f data/minecraft/tags/item/hoes.json
+be2d1fefa50eabb59cb15cbcbf19e640973f09a7 data/minecraft/tags/item/leg_armor.json
+b30b5f5f5e34959f3971a56e7d38a31f49820ee7 data/minecraft/tags/item/pickaxes.json
+57c456bb39b2f9160a0f97cd0baece4a0fe337cf data/minecraft/tags/item/shovels.json
+df34bd78e35d0e91c226b70fb041c223a0a1faea data/minecraft/tags/item/spears.json
+cd63e2a6411114f869724e079ebfd49efd2de0b9 data/minecraft/tags/item/swords.json

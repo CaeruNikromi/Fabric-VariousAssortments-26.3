@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "vassortments:block_of_charcoal"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:charcoal"
+  }
+}

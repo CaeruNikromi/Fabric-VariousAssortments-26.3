@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 150,
+  "experience": 0.7,
+  "group": "iron",
+  "ingredient": "vassortments:nether_iron_ore",
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
+}

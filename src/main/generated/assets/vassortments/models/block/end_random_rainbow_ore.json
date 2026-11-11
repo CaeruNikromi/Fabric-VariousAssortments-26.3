@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "vassortments:block/end_random_rainbow_ore"
+  }
+}

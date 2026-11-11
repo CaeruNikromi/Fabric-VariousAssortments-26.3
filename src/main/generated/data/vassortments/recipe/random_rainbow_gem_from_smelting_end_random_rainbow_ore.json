@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "random_rainbow",
+  "ingredient": "vassortments:end_random_rainbow_ore",
+  "result": {
+    "id": "vassortments:random_rainbow_gem"
+  }
+}

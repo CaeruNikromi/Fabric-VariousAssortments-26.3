@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_end_random_rainbow_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "vassortments:end_random_rainbow_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "vassortments:random_rainbow_gem_from_blasting_end_random_rainbow_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_end_random_rainbow_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vassortments:random_rainbow_gem_from_blasting_end_random_rainbow_ore"
+    ]
+  }
+}

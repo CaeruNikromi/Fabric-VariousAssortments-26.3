@@ -1,0 +1,29 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "vassortments:nether_ruby"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "vassortments:nether_ruby"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "vassortments:nether_ruby"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "vassortments:nether_ruby"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "vassortments:nether_ruby"
+      }
+    ]
+  }
+}

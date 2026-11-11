@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "vassortments",
+	"version": "${version}",
+	"name": "Various Assortments",
+	"description": "A wide variety of different features, including ores, bosses, biomes and dimensions",
+	"authors": [
+		"Caeru Nikromi"
+	],
+	"contact": {
+		"homepage": "placeholder",
+		"sources": "placeholder"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/vassortments/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.caeru.vassortments.VariousAssortments"
+		],
+		"fabric-datagen": [
+			"net.caeru.vassortments.VariousAssortmentsDataGenerator"
+		]
+	},
+	"mixins": [
+		"vassortments.mixins.json"
+	],
+	"accessWidener": "vassortments.classtweaker",
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

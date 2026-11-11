@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vassortments:nether_random_rainbow_ore"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

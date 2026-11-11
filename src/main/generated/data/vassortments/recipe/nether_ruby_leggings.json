@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "nether_ruby",
+  "key": {
+    "N": "vassortments:nether_ruby"
+  },
+  "pattern": [
+    "NNN",
+    "N N",
+    "N N"
+  ],
+  "result": {
+    "id": "vassortments:nether_ruby_leggings"
+  }
+}

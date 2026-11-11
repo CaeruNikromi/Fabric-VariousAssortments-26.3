@@ -1,0 +1,6 @@
+// 26.3	-999999999-01-01T00:00:00	Various Assortments/Tags for minecraft:block
+abafe42784d11c5d37c5afc19753839a30ceb171 data/minecraft/tags/block/mineable/pickaxe.json
+17edc7b3e10ede9a7180ddd755b2fc618834f151 data/minecraft/tags/block/needs_iron_tool.json
+a8cae361b2ed8e143998f2a6cf351bff58c52600 data/minecraft/tags/block/needs_stone_tool.json
+2fa1fff55900c712d2a12cfe04f838cb1e43de3d data/vassortments/tags/block/incorrect_for_nether_ruby_tool.json
+af1e9dcb3ecb909bde41700ab3e478a302ea9b2e data/vassortments/tags/block/needs_nether_ruby_tool.json

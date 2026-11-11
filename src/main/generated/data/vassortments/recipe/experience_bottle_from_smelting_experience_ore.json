@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "experience",
+  "ingredient": "vassortments:experience_ore",
+  "result": {
+    "id": "minecraft:experience_bottle"
+  }
+}

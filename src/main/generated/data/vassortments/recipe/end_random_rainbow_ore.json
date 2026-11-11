@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nether_ruby",
+  "key": {
+    "D": "minecraft:diamond",
+    "E": "minecraft:end_stone",
+    "R": "vassortments:nether_ruby"
+  },
+  "pattern": [
+    "DED",
+    "ERE",
+    "DED"
+  ],
+  "result": {
+    "id": "vassortments:end_random_rainbow_ore"
+  }
+}

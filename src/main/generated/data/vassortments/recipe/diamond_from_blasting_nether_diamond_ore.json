@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 150,
+  "experience": 1.0,
+  "group": "diamond",
+  "ingredient": "vassortments:nether_diamond_ore",
+  "result": {
+    "id": "minecraft:diamond"
+  }
+}

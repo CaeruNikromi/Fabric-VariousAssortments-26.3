@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "nether_ruby",
+  "key": {
+    "N": "vassortments:nether_ruby",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "NNN",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "id": "vassortments:nether_ruby_pickaxe"
+  }
+}

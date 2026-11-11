@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nether_ruby",
+  "key": {
+    "R": "vassortments:nether_ruby",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "S  ",
+    " R ",
+    "  S"
+  ],
+  "result": {
+    "id": "vassortments:naughty_stick"
+  }
+}

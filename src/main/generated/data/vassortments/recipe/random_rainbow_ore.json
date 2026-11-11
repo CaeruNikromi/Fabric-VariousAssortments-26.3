@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nether_ruby",
+  "key": {
+    "D": "minecraft:diamond",
+    "R": "vassortments:nether_ruby",
+    "S": "minecraft:stone"
+  },
+  "pattern": [
+    "DSD",
+    "SRS",
+    "DSD"
+  ],
+  "result": {
+    "id": "vassortments:random_rainbow_ore"
+  }
+}

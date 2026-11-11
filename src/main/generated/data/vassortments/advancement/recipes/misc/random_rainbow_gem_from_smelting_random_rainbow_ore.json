@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_random_rainbow_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "vassortments:random_rainbow_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "vassortments:random_rainbow_gem_from_smelting_random_rainbow_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_random_rainbow_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vassortments:random_rainbow_gem_from_smelting_random_rainbow_ore"
+    ]
+  }
+}

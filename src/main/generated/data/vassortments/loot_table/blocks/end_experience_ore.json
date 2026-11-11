@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": "minecraft:tool/can_silk_touch",
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vassortments:end_experience_ore"
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

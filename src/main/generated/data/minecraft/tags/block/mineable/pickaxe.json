@@ -1,0 +1,18 @@
+{
+  "values": [
+    "vassortments:block_of_charcoal",
+    "vassortments:block_of_nether_ruby",
+    "vassortments:deepslate_random_rainbow_ore",
+    "vassortments:deepslate_experience_ore",
+    "vassortments:end_experience_ore",
+    "vassortments:end_random_rainbow_ore",
+    "vassortments:experience_ore",
+    "vassortments:nether_copper_ore",
+    "vassortments:nether_diamond_ore",
+    "vassortments:nether_experience_ore",
+    "vassortments:nether_iron_ore",
+    "vassortments:nether_random_rainbow_ore",
+    "vassortments:nether_ruby_ore",
+    "vassortments:random_rainbow_ore"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 150,
+  "experience": 0.25,
+  "group": "random_rainbow",
+  "ingredient": "vassortments:deepslate_random_rainbow_ore",
+  "result": {
+    "id": "vassortments:random_rainbow_gem"
+  }
+}
